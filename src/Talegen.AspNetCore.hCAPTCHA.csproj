@@ -17,6 +17,8 @@
     <PackageTags>CAPTCHA</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <ApplicationIcon>logo.ico</ApplicationIcon>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
